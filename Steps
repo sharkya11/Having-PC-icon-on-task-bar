@@ -1,0 +1,8 @@
+Create a blank shortcut on dekstop
+Give this path to This PC %SystemRoot%\explorer.exe shell:MyComputerFolder in the shortcut location section
+Now go to properties and change icons
+Give this path to find the general icons %SystemRoot%\system32\imageres.dll click ok
+Select the icon of the This PC
+
+
+
